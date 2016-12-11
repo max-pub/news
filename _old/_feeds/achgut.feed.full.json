@@ -1,0 +1,187 @@
+{
+	"rss": {
+		"$": {
+			"version": "2.0",
+			"xmlns:dc": "http://purl.org/dc/elements/1.1/",
+			"xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+			"xmlns:admin": "http://webns.net/mvcb/",
+			"xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+			"xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+		},
+		"channel": [{
+			"title": ["Achgut.com"],
+			"link": ["http://www.achgut.com/"],
+			"description": ["Die Achse des Guten"],
+			"dc:language": ["de"],
+			"dc:creator": ["blog@achgut.com"],
+			"dc:rights": ["Copyright 2016"],
+			"dc:date": ["2016-12-08T14:00:00+00:00"],
+			"admin:generatorAgent": [{
+				"$": {
+					"rdf:resource": "http://www.achgut.com/"
+				}
+			}],
+			"item": [{
+				"title": ["Dating mit Tom: Unterwegs auf Planet „Weiter so“"],
+				"link": ["http://www.achgut.com/artikel/dating_mit_tom_unterwegs_auf_planet_weiter_so"],
+				"author": ["jan.tomaschoff@achgut.com (Jan Tomaschoff)"],
+				"guid": ["http://www.achgut.com/artikel/dating_mit_tom_unterwegs_auf_planet_weiter_so"],
+				"description": ["(Jan Tomaschoff) Von Jan Tomaschoff. Die Umdrehungsgeschwindigkeit des Planeten bleibt gleich, Wahlergebnisse vermochten bislang nichts daran zu ändern. Auch der gemeine Bürger dreht sich lieber um sich selbst als um einen hyperventilierenden medial-politischen Komplex. Seine unendliche Gleichmut und Anpassungsfähigkeit ist eines der wirklichen Weltwunder, ergibt ein kleiner Streifzug durchs Land."],
+				"dc:subject": ["Inland, Politik, Satire,"],
+				"dc:date": ["2016-12-08T14:00:00+00:00"]
+			}, {
+				"title": ["Sonnenbad auf Merkur: Ein Preis der Zweisamkeit im Bett"],
+				"link": ["http://www.achgut.com/artikel/altern_wir_im_bett_schneller"],
+				"author": ["tamara.wernli@achgut.com (Tamara Wernli)"],
+				"guid": ["http://www.achgut.com/artikel/altern_wir_im_bett_schneller"],
+				"description": ["(Tamara Wernli) Von Tamara Wernli. Männer haben diese unerklärliche Besessenheit für offene Fenster. Lärm, Kälte – egal, ohne frische Luftzufuhr können sie nicht schlafen. Dies und andere Eigenarten machen in zehn Jahren 6000 Extra-Fältchen. Fazit: Männer sind fabelhaft. Aber mit ihnen ein Bett zu teilen, taugt für die Frischzellenkur etwa so wie ein Sonnenbad auf dem Planet Merkur. Dennoch: Sie wärmen immerhin unsere kalten Füsse."],
+				"dc:subject": ["Bunte Welt, Kultur, Stil,"],
+				"dc:date": ["2016-12-08T11:30:00+00:00"]
+			}, {
+				"title": ["Fundstück: Die Tagesschau in den Klauen des Regionalismus"],
+				"link": ["http://www.achgut.com/artikel/fundstueck_die_tagesschau_in_den_klauen_des_regionalismus"],
+				"author": ["mbroder@achgut.de (Henryk M. Broder)"],
+				"guid": ["http://www.achgut.com/artikel/fundstueck_die_tagesschau_in_den_klauen_des_regionalismus"],
+				"description": ["(Fundstück von Henryk M. Broder) <p>Täglich daüber zu entscheiden, was dem Zuschauer zugemutet werden kann, ist ein harter Job, der viel Fingerspitzengefühl erfordert. Distanz und Relevanz&nbsp;spielen eine Rolle. Ein&nbsp;Bericht über die notleidenden Kinder von Gaza ist immer eine sichere Bank. Wird irgendwo eine Frau vergewaltigt, stellt sich die Frage: War das ein Fall von regionaler Bedeutung? Darüber entscheidet der Chef der Tagesschau, Dr.Kai Gniffke. Die Vergewaltigung und Ermordnung einer jungen Frau in Freiburg wertete er als Ereignis von regionalem Interesse, kein Thema für die Hauptausgabe der Tagesschau. Zwei Tage später die Kehrtwende. Nachdem in Bochum ein Mann gefasst wurde, der zwei Frauen vergewaltigt haben soll, entschied Gniffke ganz anders. Das sei sehr wohl ein Fall von überregionaler Bedeutung, denn inzwischen habe sich die Wahrnehmung geändert.&nbsp;Hier die geniale Stellungnahme des Tagesschau-Chefs, warum er in beiden Fällen richig gehandelt hat.&nbsp;</p>\n"],
+				"dc:subject": ["Kultur, Medien,"],
+				"dc:date": ["2016-12-08T10:24:00+00:00"]
+			}, {
+				"title": ["Trump, der Liebling der Deutschen"],
+				"link": ["http://www.achgut.com/artikel/trump_der_liebling_der_deutschen"],
+				"author": ["rbonhorst@achgut.com (Rainer Bonhorst)"],
+				"guid": ["http://www.achgut.com/artikel/trump_der_liebling_der_deutschen"],
+				"description": ["(Rainer Bonhorst) Von Rainer Bonhorst. TTIP tot, Putin verstehen, keine amerikanischen Soldaten mehr, nirgends. Haben wir das nicht schon immer gewollt? Friede, Freude und Amis raus aus überall? Und nun kommt Trump daher und erfüllt uns diesen schönen Traum! Es ist ein Wunder. Endlich hat Deutschland den Präsidenten, den es sich für Amerika schon immer gewünscht hat."],
+				"dc:subject": ["Ausland, Inland, Politik,"],
+				"dc:date": ["2016-12-08T09:00:00+00:00"]
+			}, {
+				"title": ["Fundstück: „Putinversteher, warum  schweigt Ihr zu Aleppo?“"],
+				"link": ["http://www.achgut.com/artikel/fundstueck_putinversteher_warum_schweigt_ihr_zu_aleppo"],
+				"author": ["dmaxeiner@achgut.de (Dirk Maxeiner)"],
+				"guid": ["http://www.achgut.com/artikel/fundstueck_putinversteher_warum_schweigt_ihr_zu_aleppo"],
+				"description": ["(Fundstück von Dirk Maxeiner) <p>Die BILD-Zeitung stellt eine nur allzu berechtigte Frage. 500 Kriegsgegner demonstrierten in Berlin gegen Putins barbarische Angriffe auf Aleppo. Gegen Bush marschierten vor 13 Jahren 500 000…</p>\n"],
+				"dc:subject": [""],
+				"dc:date": ["2016-12-08T07:06:00+00:00"]
+			}, {
+				"title": ["Der Denunziant, Teil 2"],
+				"link": ["http://www.achgut.com/artikel/sag_mir_wo_du_stehst"],
+				"author": ["awendt@achgut.com (Alexander Wendt)"],
+				"guid": ["http://www.achgut.com/artikel/sag_mir_wo_du_stehst"],
+				"description": ["(Alexander Wendt) Von Alexander Wendt. Der bei der Agentur Scholz & Friends angestellte Werber Gerald Hensel kämpft gegen alles, was aus seiner Sicht politisch rechts ist, indem er werbetreibende Firmen öffentlich unter Druck setzt, keine Anzeigen mehr in den von ihm geächteten Online-Medien zu platzieren. Über den Bringservice Lieferheld, der Hensel antwortete, die Firma sei \"nicht von der Gesinnungspolizei\", beeilte sich SpOn zu kommentieren, sie verhalte sich \"unbeholfen\"."],
+				"dc:subject": [""],
+				"dc:date": ["2016-12-08T05:29:00+00:00"]
+			}, {
+				"title": ["Der Fall Maria: Vom falschen Umgang mit einer Debatte"],
+				"link": ["http://www.achgut.com/artikel/der_fall_maria"],
+				"author": ["wweimer@achgut.de (Wolfram Weimer)"],
+				"guid": ["http://www.achgut.com/artikel/der_fall_maria"],
+				"description": ["(Wolfram Weimer) Von Wolfram Weimer. Es ist wie eine gefühlte Wiederholung der Kölner Silvesterübergriffe. Ein Verbrechen mit Migrationshintergrund – diesmal der Fall der ermordeten Freiburger Medizinstudentin Maria – wird von Volksparteien und Leitmedien eilends zum politischen Tabu erklärt. Wer eine Debatte mundtot machen will, bevor sie begonnen hat, der entfacht sie erst. Wie man es besser macht, zeigt der grüne Oberbürgermeister der Stadt."],
+				"dc:subject": ["Inland, Medien, Politik,"],
+				"dc:date": ["2016-12-08T05:25:00+00:00"]
+			}, {
+				"title": ["Postfaktisches Kunst-Turnen: Generalverdacht im Spagat"],
+				"link": ["http://www.achgut.com/artikel/postfaktisches_kunstturnen_generalverdacht_im_spagat"],
+				"author": ["p.grimm@achgut.com (Peter Grimm)"],
+				"guid": ["http://www.achgut.com/artikel/postfaktisches_kunstturnen_generalverdacht_im_spagat"],
+				"description": ["(Peter Grimm) Von Peter Grimm. Nach der neuesten Statistik für Sachsen haben 46 Prozent aller Zuwanderer aus den Maghreb-Staaten, also Tunesien, Algerien und Marokko, Straftaten verübt. Nun wird ja niemand annehmen, dass Marokkaner, Algerier oder Tunesier von vorneherein krimineller sind als andere Volksgruppen. Es muss also Umstände geben, die dazu führen, dass es eine Negativ-Auslese aus diesen Ethnien nach Deutschland verschlägt."],
+				"dc:subject": ["Inland, Medien, Politik,"],
+				"dc:date": ["2016-12-07T15:42:00+00:00"]
+			}, {
+				"title": ["Der Denunziant von Scholz &amp; Friends"],
+				"link": ["http://www.achgut.com/artikel/der_denunziant_von_scholz_und_friends"],
+				"author": ["mbroder@achgut.de (Henryk M. Broder)"],
+				"guid": ["http://www.achgut.com/artikel/der_denunziant_von_scholz_und_friends"],
+				"description": ["(Henryk M. Broder) Von Henryk M.Broder. Deutsche Werbe-Fuzzis rufen zum Boykott der Achse des Guten auf. Unter „#keingeldfuerrechts“ werden Anzeigenkunden mit Rufmord bedroht und gedrängt, ihre Buchungen zurückzuziehen. Der Anstifter der Kampagne sitzt bei Scholz & Friends, einer Agentur, die für die Bundesregierung und die Europäische Kommission arbeitet."],
+				"dc:subject": ["Inland, Medien, Politik,"],
+				"dc:date": ["2016-12-07T13:04:00+00:00"]
+			}, {
+				"title": ["Eine teure Schnapsidee"],
+				"link": ["http://www.achgut.com/artikel/eine_teure_schnapsidee"],
+				"author": ["thomas.rietzschel@achgut.com (Thomas Rietzschel)"],
+				"guid": ["http://www.achgut.com/artikel/eine_teure_schnapsidee"],
+				"description": ["(Thomas Rietzschel) Die Hals über Kopf beschlossen Abschaltung der Atommeiler war ok, allerdings müssen die Betreiber angemessen entschädigt werden. Sagt das Bundesverfassungsgericht. Es geht mal wieder um Milliarden, die der Staat erst eintreiben muss, bevor er sie verteilt. "],
+				"dc:subject": ["Inland, Wirtschaft,"],
+				"dc:date": ["2016-12-07T11:42:00+00:00"]
+			}, {
+				"title": ["Fundstück: “Eine solche Frage zu stellen, finde ich fast schon unverschämt”"],
+				"link": ["http://www.achgut.com/artikel/fundstueck_eine_solche_frage_zu_stellen_finde_ich_fast_schon_unverschaemt"],
+				"author": ["mbroder@achgut.de (Henryk M. Broder)"],
+				"guid": ["http://www.achgut.com/artikel/fundstueck_eine_solche_frage_zu_stellen_finde_ich_fast_schon_unverschaemt"],
+				"description": ["(Fundstück von Henryk M. Broder) <p>Die stellvertretende&nbsp;Sprecherin von Außenminister Steinmeier, Sawsan Chebli,&nbsp;wechselt in die Berliner Senatskanzlei des Regierenden Bürgermeisters Müller, wo sie als Staatssekretärin&nbsp;die&nbsp;Bundesangelegenheiten koordinieren&nbsp;wird. Drei Gründe, mit denen sie sich für den neuen Job qualifiziert hat: <a href=\"https://www.youtube.com/watch?v=uFMEs1NFB9Y\">Hier</a>, <a href=\"http://www.zimbio.com/pictures/BNAz4xgduq9/Bundespresseball+2016/KkU9Pxp6uSx/Sawsan+Chebli\">hier</a> und im Link.</p>\n"],
+				"dc:subject": ["Ausland, Inland, Politik,"],
+				"dc:date": ["2016-12-07T08:58:00+00:00"]
+			}, {
+				"title": ["Fundstück: Dirk Schümer: Die EU ist zur Resterampe verkommen"],
+				"link": ["http://www.achgut.com/artikel/fundstueck_dirk_schuemer_die_eu_ist_zur_resterampe_verkommen"],
+				"author": ["mbroder@achgut.de (Henryk M. Broder)"],
+				"guid": ["http://www.achgut.com/artikel/fundstueck_dirk_schuemer_die_eu_ist_zur_resterampe_verkommen"],
+				"description": ["(Fundstück von Henryk M. Broder) <p><strong>Es ist geschafft:</strong> &nbsp;<em>Reiche Nationen wie Island, Norwegen oder die Schweiz standen auf dem Sprung zum Vollbeitritt. All diese Blütenträume sind restlos verpufft. Außer dem autoritären Bürgerkriegsland Türkei, das dem Brüsseler Projekt endgültig den Gnadenstoß geben würde, streben nurmehr arme und isolierte Balkanstaaten wie Albanien, Mazedonien oder Serbien noch mit Volldampf in die EU.</em></p>\n"],
+				"dc:subject": ["Ausland, Kultur, Politik,"],
+				"dc:date": ["2016-12-07T07:36:00+00:00"]
+			}, {
+				"title": ["Die Begegnung mit der vierten Dimension"],
+				"link": ["http://www.achgut.com/artikel/die_begegnung_mit_der_4._dimension"],
+				"author": ["info@achgut.de (Gastautor)"],
+				"guid": ["http://www.achgut.com/artikel/die_begegnung_mit_der_4._dimension"],
+				"description": ["(Gastautor) Von Alain Pichard. Als ich ein junger Lehrer war, wollte ich Teil der Arbeiterbewegung sein und trat der Gewerkschaft VPOD bei. Ich traf dort auf Mario, Walter, Werner, Hasso und wie sie sonst noch alle hießen. Und das waren Trolleybus-Chauffeure, Stadtgärtner, Straßenarbeiter, Elektriker – also richtige Arbeiter. Die waren in unseren Organisationen nämlich seltener als der Apollo-Falter auf unseren Wiesen."],
+				"dc:subject": ["Inland, Kultur,"],
+				"dc:date": ["2016-12-07T05:25:00+00:00"]
+			}, {
+				"title": ["Politik der Geste: Willi Brandts Kniefall vor 46 Jahren"],
+				"link": ["http://www.achgut.com/artikel/eine_geste_macht_geschichte_will_brands_kniefall"],
+				"author": ["r.grell@achgut.com (Rainer Grell)"],
+				"guid": ["http://www.achgut.com/artikel/eine_geste_macht_geschichte_will_brands_kniefall"],
+				"description": ["(Rainer Grell) Von Rainer Grell. Heute vor 46 Jahren machte  Willy Brandt am Ehrenmal für die Helden und Opfer des Ghetto-Aufstands von 1944 seinen berühmten Kniefall. Gesten sind wie Bilder: Sie prägen sich ein, viele bleiben unvergeßlich, manche machen Geschichte. Und sie entfalten eine politische Kraft, die oft weit über die konkrete Situation hinausgeht."],
+				"dc:subject": ["Ausland, Inland, Kultur, Medien, Politik,"],
+				"dc:date": ["2016-12-07T05:02:00+00:00"]
+			}, {
+				"title": ["Mit Aydan Özoğuz kultursensibel in die Parallelgesellschaft"],
+				"link": ["http://www.achgut.com/artikel/winter_is_coming_integration_als_staatsreligion_mit_inquisition"],
+				"author": ["roger.letsch@achgut.com (Roger Letsch)"],
+				"guid": ["http://www.achgut.com/artikel/winter_is_coming_integration_als_staatsreligion_mit_inquisition"],
+				"description": ["(Roger Letsch) Von Roger Letsch. Mit ihrem jüngsten „Impulspapier“ gelingt Aydan Özoğuz ein Kunststück: Sie löst die Gesellschaft auf. Was darauf folgt, ist leider wenig attraktiv. Es hat mit Diskriminierung, Paralleljustiz und Überwachungsstaat zu tun."],
+				"dc:subject": ["Inland, Medien, Politik,"],
+				"dc:date": ["2016-12-06T17:00:00+00:00"]
+			}, {
+				"title": ["Noch mehr Achse: Alle Themen der Woche auf einen Blick"],
+				"link": ["http://www.achgut.com/artikel/noch_mehr_achse_alle_themen_der_woche_auf_einen_blick1"],
+				"author": ["info@achgut.com (Die Achse des Guten)"],
+				"guid": ["http://www.achgut.com/artikel/noch_mehr_achse_alle_themen_der_woche_auf_einen_blick1"],
+				"description": ["(Die Achse des Guten) Wer gern ein wenig mit den Augen spazieren geht, findet unter der Rubrik 24/7 Woche  jetzt alle Titelthmen der Woche  mit Fotos und Teasern. Schauen Sie mal rein, macht Spaß. Einfach oben auf der Startseite unter \"Woche\" anklicken. Blättern sie ruhig auch mal zurück, es gibt viel Lesenswertes zu entdecken! "],
+				"dc:subject": ["Hausnachrichten,"],
+				"dc:date": ["2016-12-06T15:00:00+00:00"]
+			}, {
+				"title": ["Hurra, wir graben uns das eigene Grab!"],
+				"link": ["http://www.achgut.com/artikel/hurra_wir_graben_uns_das_eigene_grab"],
+				"author": ["info@achgut.de (Gastautor)"],
+				"guid": ["http://www.achgut.com/artikel/hurra_wir_graben_uns_das_eigene_grab"],
+				"description": ["(Gastautor) Von Peter Schmidt. Edel sei der Mensch, hilfreich und gut, denn das allein unterscheidet ihn von allen Wesen, die wir kennen – Goethes Losung haben sich inzwischen auch die deutschen Unternehmer zu Herzen genommen. Sie praktizieren einen devoten Kotau vor einem Zeitgeist, der glaubt, die Gesetze von Chemie, Physik und Biologie moralischen Imperativen unterwerfen zu können."],
+				"dc:subject": ["Inland, Kultur, Wirtschaft, Wissen,"],
+				"dc:date": ["2016-12-06T14:30:00+00:00"]
+			}, {
+				"title": ["Fundstück: Kölner am Rande des Nervenzusammenbruchs"],
+				"link": ["http://www.achgut.com/artikel/fundstueck_koelner_am_randes_des_nervenzusammenbruchs"],
+				"author": ["mbroder@achgut.de (Henryk M. Broder)"],
+				"guid": ["http://www.achgut.com/artikel/fundstueck_koelner_am_randes_des_nervenzusammenbruchs"],
+				"description": ["(Fundstück von Henryk M. Broder) <p><strong>Helfer persönlich enttäuscht</strong>:&nbsp;<em>Ermüdung, Ernüchterung, Frustration: Die Gründe für das schwindende Engagement sind vielschichtig. Oft sei es schlicht ein Zeitproblem, so Klein. „Viele haben sich ein Jahr lang extrem reingehängt. Jetzt ist doch eine Ermüdung eingetreten.“ Hinzu kommt: Der Prozess der Integration ist komplizierter und langwieriger, als so mancher zunächst gedacht hatte. Spracherwerb, Arbeitssuche, Ausbildung, Wohnungssuche – das alles erfordere eine sehr intensive Begleitung und ein hohes Maß an Know-how, sagt Wolfgang Schmitz von der Willkommensinitiative in Brück. „Das ist nicht für jeden etwas.“&nbsp;Auch die langen Wartezeiten bei der Anerkennung als Asylbewerber sowie bürokratische und rechtliche Hindernisse haben die Helfer zermürbt. Hinzu kommen bei manchem persönliche Enttäuschung, wenn Sprachkurse und andere Hilfen von den Flüchtlingen nicht so angenommen werden wie erwartet.</em></p>\n"],
+				"dc:subject": ["Inland, Kultur, Politik, Reise,"],
+				"dc:date": ["2016-12-06T13:14:00+00:00"]
+			}, {
+				"title": ["Asylkrise: Nichts ist geregelt. Gar nichts."],
+				"link": ["http://www.achgut.com/artikel/nichts_ist_geregelt._gar_nichts"],
+				"author": ["gerd.held@achgut.com (Gerd Held)"],
+				"guid": ["http://www.achgut.com/artikel/nichts_ist_geregelt._gar_nichts"],
+				"description": ["(Gerd Held) Von Gerd Held. Erdogans Drohung, Millionen Migranten in die EU durchzulassen, wirft ein grelles Schlaglicht auf die Schwächen der europäischen Politik: Die Außengrenzen der Gemeinschaft sind löchrig, das Asylrecht wird willkürlich überdehnt und das Völkerrecht ausgehöhlt. Das Verhältnis zur Türkei muss dringend auf eine neue, geregelte Grundlage gestellt werden. Auf dem heutigen CDU-Parteitag werden statt dessen Nebelkerzen beklatscht. "],
+				"dc:subject": [""],
+				"dc:date": ["2016-12-06T11:08:00+00:00"]
+			}, {
+				"title": ["Verfassungsgericht: Merkel hat Energie-Konzerne „enteignet“"],
+				"link": ["http://www.achgut.com/artikel/bundesverfassungsgericht_merkel_hat_die_energiekonzerne_enteignet"],
+				"author": ["manfred.haferburg@achgut.com (Manfred Haferburg)"],
+				"guid": ["http://www.achgut.com/artikel/bundesverfassungsgericht_merkel_hat_die_energiekonzerne_enteignet"],
+				"description": ["(Manfred Haferburg) Von Manfred Haferburg. Karlsruhe hat die Klagen der Atomkraftbetreiber E.ON, RWE und Vattenfall gegen den beschleunigten Atomausstieg für teilweise erfolgreich erklärt. Den Konzernen stehe eine Entschädigung zu. Auch eine Angela Merkel kann nicht einfach per Order di Mutti sichere und hochwertige Industrieanlagen stilllegen. Da hilft auch keine nachträglich rechtfertigende Ethikkommission. Das Urteil ist eine schallende Ohrfeige."],
+				"dc:subject": ["Inland, Politik, Wirtschaft,"],
+				"dc:date": ["2016-12-06T10:16:00+00:00"]
+			}]
+		}]
+	}
+}

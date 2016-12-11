@@ -1,0 +1,250 @@
+{
+	"rss": {
+		"$": {
+			"xmlns:dc": "http://purl.org/dc/elements/1.1/",
+			"xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+			"xmlns:atom": "http://www.w3.org/2005/Atom",
+			"version": "2.0"
+		},
+		"channel": [{
+			"title": ["Topthemen - SZ.de"],
+			"description": ["sz.de"],
+			"link": ["http://www.sueddeutsche.de"],
+			"image": [{
+				"url": ["http://polpix.sueddeutsche.com/staticassets/img/favicon.ico"],
+				"title": ["Topthemen - SZ.de"],
+				"link": ["http://www.sueddeutsche.de"]
+			}],
+			"generator": ["RSS for Node"],
+			"lastBuildDate": ["Fri, 09 Dec 2016 12:45:38 GMT"],
+			"atom:link": [{
+				"$": {
+					"href": "http://rss.sueddeutsche.de/topthemen",
+					"rel": "self",
+					"type": "application/rss+xml"
+				}
+			}],
+			"copyright": ["Süddeutsche Zeitung Digitale Medien GmbH – 2015"],
+			"language": ["de"],
+			"managingEditor": ["kontakt@sueddeutsche.de (Süddeutsche Zeitung Digitale Medien GmbH)"],
+			"item": [{
+				"title": ["Mutmaßlicher Bombenleger von Dresden gefasst"],
+				"description": ["<p>Der 30-Jährige soll im September vor einer Moschee in der sächsischen Landeshauptstadt einen Sprengsatz gezündet haben. Zuvor hatte er angeblich gegen Ausländer gehetzt.</p>"],
+				"link": ["http://www.sueddeutsche.de/politik/sachsen-mutmasslicher-bombenleger-von-dresden-gefasst-1.3287209"],
+				"guid": [{
+					"_": "1.3287209",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Dresden", "Islamfeindlichkeit"],
+				"pubDate": ["Fri, 09 Dec 2016 12:22:24 GMT"],
+				"dc:abstract": ["Der 30-Jährige soll im September vor einer Moschee in der sächsischen Landeshauptstadt einen Sprengsatz gezündet haben. Zuvor hatte er angeblich gegen Ausländer gehetzt."],
+				"dc:publisher": ["Süddeutsche.de/dpa/mane"]
+			}, {
+				"title": ["Eine \"freischaffende Liberale\", die ihren Prinzipien treu blieb"],
+				"description": ["<p>Hildegard Hamm-Brücher verkörperte die Sehnsucht vieler Menschen nach aufrichtigen Politikern. Als die FPD mit antisemitischen Klischees jonglierte, trat sie aus der Partei aus - im Herzen blieb sie bis zuletzt Liberale.</p>"],
+				"link": ["http://www.sueddeutsche.de/muenchen/zum-tod-von-hildegard-hamm-bruecher-eine-freischaffende-liberale-die-ihren-prinzipien-treu-blieb-1.3287789"],
+				"guid": [{
+					"_": "1.3287789",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Bayern-FDP", "FDP", "Hildegard Hamm-Brücher"],
+				"dc:creator": ["Nachruf von Detlef Esslinger"],
+				"pubDate": ["Fri, 09 Dec 2016 12:04:01 GMT"],
+				"dc:abstract": ["Hildegard Hamm-Brücher verkörperte die Sehnsucht vieler Menschen nach aufrichtigen Politikern. Als die FPD mit antisemitischen Klischees jonglierte, trat sie aus der Partei aus - im Herzen blieb sie bis zuletzt Liberale."],
+				"dc:publisher": ["sz.de"]
+			}, {
+				"title": ["Mehr als 1000 russische Sportler in staatliches Doping-System involviert"],
+				"description": ["<p>Der Skandal ist offenbar weit größer als angenommen: Wada-Chefermittler McLaren unterstellt Russland in seinem zweiten Bericht eine \"institutionalisierte Strategie zur Medaillenbeschaffung\".</p>"],
+				"link": ["http://www.sueddeutsche.de/sport/mclaren-report-russische-sportler-in-staatliches-doping-system-involviert-1.3287235"],
+				"guid": [{
+					"_": "1.3287235",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Doping in Russland", "IOC", "Olympia", "Richard McLaren", "Thomas Bach", "WADA", "Wladimir Putin"],
+				"pubDate": ["Fri, 09 Dec 2016 11:50:13 GMT"],
+				"dc:abstract": ["Der Skandal ist offenbar weit größer als angenommen: Wada-Chefermittler McLaren unterstellt Russland in seinem zweiten Bericht eine \"institutionalisierte Strategie zur Medaillenbeschaffung\"."],
+				"dc:publisher": ["SZ.de/dpa/sid/fued"]
+			}, {
+				"title": ["VW-Abgasaffäre: Kraftfahrt-Bundesamt soll Untersuchungsbericht entschärft haben"],
+				"description": ["<p>\"Schonungslos\" wollte Verkehrsminister Dobrindt die VW-Abgasaffäre aufklären. Doch jetzt wurde bekannt: Aus einem Untersuchungsbericht wurden wohl kritische Passagen gestrichen.</p>"],
+				"link": ["http://www.sueddeutsche.de/wirtschaft/verkehrsministerium-vw-abgasaffaere-kraftfahrt-bundesamt-soll-untersuchungsbericht-entschaerft-haben-1.3287269"],
+				"guid": [{
+					"_": "1.3287269",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Abgasaffäre", "Alexander Dobrindt", "VW"],
+				"pubDate": ["Fri, 09 Dec 2016 11:49:49 GMT"],
+				"dc:abstract": ["\"Schonungslos\" wollte Verkehrsminister Dobrindt die VW-Abgasaffäre aufklären. Doch jetzt wurde bekannt: Aus einem Untersuchungsbericht wurden wohl kritische Passagen gestrichen."],
+				"dc:publisher": ["SZ.de/dpa"]
+			}, {
+				"title": ["Schwere Niederlage für das Kalifat"],
+				"description": ["<p>Der IS-Ableger im libyschen Sirte existiert nicht mehr. Trotzdem sieht es nicht so aus, als würde bald Frieden einkehren.</p>"],
+				"link": ["http://www.sueddeutsche.de/politik/libyen-schwere-niederlage-fuer-das-kalifat-1.3285923"],
+				"guid": [{
+					"_": "1.3285923",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Islamischer Staat", "Krieg in Libyen", "Libyen"],
+				"dc:creator": ["Von Paul-Anton Krüger, Kairo"],
+				"pubDate": ["Fri, 09 Dec 2016 11:40:19 GMT"],
+				"dc:abstract": ["Der IS-Ableger im libyschen Sirte existiert nicht mehr. Trotzdem sieht es nicht so aus, als würde bald Frieden einkehren."],
+				"dc:publisher": ["SZ vom 09.12.2016"]
+			}, {
+				"title": ["\"Unser Land hat ihr viel zu verdanken\""],
+				"description": ["<p>Über Parteigrenzen hinweg herrscht große Anteilnahme am Tod von Hildegard Hamm-Brücher - Justizminister Maas würdigt ihre Verdienste für Deutschland.</p>"],
+				"link": ["http://www.sueddeutsche.de/politik/hildegard-hamm-bruecher-unser-land-hat-ihr-viel-zu-verdanken-1.3287304"],
+				"guid": [{
+					"_": "1.3287304",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Bayern-FDP", "FDP", "Hamm-Brücher", "Hildegard Hamm-Brücher", "Liberalismus"],
+				"pubDate": ["Fri, 09 Dec 2016 11:30:58 GMT"],
+				"dc:abstract": ["Über Parteigrenzen hinweg herrscht große Anteilnahme am Tod von Hildegard Hamm-Brücher - Justizminister Maas würdigt ihre Verdienste für Deutschland."],
+				"dc:publisher": ["SZ.de/dpa/AFP/stein"]
+			}, {
+				"title": ["Wie Autofahrer ihre Verkehrssünder-Punkte online einsehen können"],
+				"description": ["<p>Der neue Service der Flensburger Behörde ist kostenfrei - setzt aber einige technische Schritte voraus.</p>"],
+				"link": ["http://www.sueddeutsche.de/auto/fahreignungsregister-flensburg-wie-autofahrer-ihre-verkehrssuender-punkte-online-einsehen-koennen-1.3285833"],
+				"guid": [{
+					"_": "1.3285833",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Bußgeldkatalog", "Fahreignungsregister", "Punkte in Flensburg", "Süddeutsche Zeitung Panorama", "Verkehrssünderdatei"],
+				"dc:creator": ["Von Moritz Geier"],
+				"pubDate": ["Fri, 09 Dec 2016 10:54:22 GMT"],
+				"dc:abstract": ["Der neue Service der Flensburger Behörde ist kostenfrei - setzt aber einige technische Schritte voraus."],
+				"dc:publisher": ["SZ vom 09.12.2016"]
+			}, {
+				"title": ["Rechtspopulist Wilders wegen Diskriminierung verurteilt"],
+				"description": ["<p>Mehr als 6400 Menschen hatten Anzeige gegen den Niederländer erstattet, nachdem er 2014 bei einer Rede gegen Marokkaner gehetzt hatte. Politisch könnte ihm das Urteil helfen.</p>"],
+				"link": ["http://www.sueddeutsche.de/politik/rechtspopulismus-rechtspopulist-wilders-wegen-diskriminierung-von-marokkanern-verurteilt-1.3287149"],
+				"guid": [{
+					"_": "1.3287149",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Geert Wilders", "Rechtspopulismus"],
+				"pubDate": ["Fri, 09 Dec 2016 10:50:46 GMT"],
+				"dc:abstract": ["Mehr als 6400 Menschen hatten Anzeige gegen den Niederländer erstattet, nachdem er 2014 bei einer Rede gegen Marokkaner gehetzt hatte. Politisch könnte ihm das Urteil helfen."],
+				"dc:publisher": ["SZ.de/dpa/dayk"]
+			}, {
+				"title": ["Ein Fußballklub stirbt nicht einfach so"],
+				"description": ["<p>Wie geht es den Hinterbliebenen der Opfer des Flugzeugabsturzes, bei dem 20 Profis des brasilianischen Klubs Chapecoense ums Leben kommen? Ein Besuch vor Ort.</p>"],
+				"link": ["http://www.sueddeutsche.de/sport/chapecoense-ein-fussballklub-stirbt-nicht-einfach-so-1.3287151"],
+				"guid": [{
+					"_": "1.3287151",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Chapecoense", "Flugzeugabsturz", "Flugzeugabsturz in Kolumbien", "Fußball"],
+				"dc:creator": ["Von Boris Herrmann, Chapecó"],
+				"pubDate": ["Fri, 09 Dec 2016 10:11:28 GMT"],
+				"dc:abstract": ["Wie geht es den Hinterbliebenen der Opfer des Flugzeugabsturzes, bei dem 20 Profis des brasilianischen Klubs Chapecoense ums Leben kommen? Ein Besuch vor Ort."],
+				"dc:publisher": ["Süddeutsche.de"]
+			}, {
+				"title": ["Der Mann, der Matteo Renzis Nachfolger werden könnte"],
+				"description": ["<p>Der leise Finanzminister Pier Carlo Padoan wird als neuer Premier Italiens gehandelt. In Brüssel gilt er als Garant dafür, dass es in Rom ungefähr so weiterginge wie bisher. </p>"],
+				"link": ["http://www.sueddeutsche.de/politik/italien-der-mann-der-matteo-renzis-nachfolger-werden-koennte-1.3285807"],
+				"guid": [{
+					"_": "1.3285807",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Italien", "Matteo Renzi", "Referendum in Italien"],
+				"dc:creator": ["Porträt von Oliver Meiler"],
+				"pubDate": ["Fri, 09 Dec 2016 09:58:49 GMT"],
+				"dc:abstract": ["Der leise Finanzminister Pier Carlo Padoan wird als neuer Premier Italiens gehandelt. In Brüssel gilt er als Garant dafür, dass es in Rom ungefähr so weiterginge wie bisher. "],
+				"dc:publisher": ["SZ vom 09.12.2016"]
+			}, {
+				"title": ["Zum Leben reicht's doch"],
+				"description": ["<p>Die Reform der Königsklasse wird die wenigen reichen Fußballklubs noch reicher machen. Dass alle anderen das Nachsehen haben, kümmert sie wenig.</p>"],
+				"link": ["http://www.sueddeutsche.de/sport/reform-der-champions-league-zum-leben-reichts-doch-1.3286473"],
+				"guid": [{
+					"_": "1.3286473",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Champions League", "FC Bayern München", "Süddeutsche Zeitung Sport"],
+				"dc:creator": ["Kommentar von Philipp Selldorf"],
+				"pubDate": ["Fri, 09 Dec 2016 09:45:51 GMT"],
+				"dc:abstract": ["Die Reform der Königsklasse wird die wenigen reichen Fußballklubs noch reicher machen. Dass alle anderen das Nachsehen haben, kümmert sie wenig."],
+				"dc:publisher": ["SZ vom 09.12.2016"]
+			}, {
+				"title": ["Hildegard Hamm-Brücher ist tot"],
+				"description": ["<p>Über Jahrzehnte prägte sie die Politik der FDP. Nun ist die Liberale im Alter von 95 Jahren gestorben.</p>"],
+				"link": ["http://www.sueddeutsche.de/muenchen/eil-hildegard-hamm-bruecher-ist-tot-1.3287243"],
+				"guid": [{
+					"_": "1.3287243",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Bayern-FDP", "FDP", "Hildegard Hamm-Brücher"],
+				"pubDate": ["Fri, 09 Dec 2016 09:41:28 GMT"],
+				"dc:abstract": ["Über Jahrzehnte prägte sie die Politik der FDP. Nun ist die Liberale im Alter von 95 Jahren gestorben."],
+				"dc:publisher": ["SZ.de/dpa"]
+			}, {
+				"title": ["Trumps Arbeitsminister ist ein Kämpfer für schwache Arbeitnehmerrechte"],
+				"description": ["<p>Er ist gegen einen höheren Mindestlohn, allgemeine Gesundheitsversorgung und Regeln für bezahlte Überstunden. Jetzt soll Fast-Food-Manager Andrew Puzder Arbeitsminister der USA werden.</p>"],
+				"link": ["http://www.sueddeutsche.de/wirtschaft/us-wahl-trumps-arbeitsminister-ist-ein-kaempfer-fuer-schwache-arbeitnehmerrechte-1.3287143"],
+				"guid": [{
+					"_": "1.3287143",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Donald Trump", "US-Wahl", "USA"],
+				"pubDate": ["Fri, 09 Dec 2016 09:34:46 GMT"],
+				"dc:abstract": ["Er ist gegen einen höheren Mindestlohn, allgemeine Gesundheitsversorgung und Regeln für bezahlte Überstunden. Jetzt soll Fast-Food-Manager Andrew Puzder Arbeitsminister der USA werden."],
+				"dc:publisher": ["SZ.de/dpa/ap/vd"]
+			}, {
+				"title": ["\"Postfaktisch\" ist Wort des Jahres"],
+				"description": ["<p>Die gefühlte Wahrheit entscheidet Wahlen und Volksabstimmungen. Die Gesellschaft für deutsche Sprache wählt ein passendes Wort des Jahres. Immer mehr Menschen seien bereit, Tatsachen zu ignorieren.</p>"],
+				"link": ["http://www.sueddeutsche.de/kultur/eil-postfaktisch-ist-wort-des-jahres-1.3287168"],
+				"guid": [{
+					"_": "1.3287168",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Deutsche Sprache", "Wort des Jahres"],
+				"pubDate": ["Fri, 09 Dec 2016 09:12:03 GMT"],
+				"dc:abstract": ["Die gefühlte Wahrheit entscheidet Wahlen und Volksabstimmungen. Die Gesellschaft für deutsche Sprache wählt ein passendes Wort des Jahres. Immer mehr Menschen seien bereit, Tatsachen zu ignorieren."],
+				"dc:publisher": ["SZ.de/doer"]
+			}, {
+				"title": ["Weihnachtliche Gnade im Strafvollzug"],
+				"description": ["<p>Zwischen 800 und 900 Häftlinge werden jedes Jahr ab Mitte November vorzeitig nach Hause geschickt - auch der Staat profitiert davon.</p>"],
+				"link": ["http://www.sueddeutsche.de/panorama/strafvollzug-weihnachtliche-gnade-im-strafvollzug-1.3285841"],
+				"guid": [{
+					"_": "1.3285841",
+					"$": {
+						"isPermaLink": "false"
+					}
+				}],
+				"category": ["Gefängnis", "Kriminalität", "Resozialisierung"],
+				"dc:creator": ["Von Wolfgang Janisch"],
+				"pubDate": ["Fri, 09 Dec 2016 08:09:43 GMT"],
+				"dc:abstract": ["Zwischen 800 und 900 Häftlinge werden jedes Jahr ab Mitte November vorzeitig nach Hause geschickt - auch der Staat profitiert davon."],
+				"dc:publisher": ["SZ vom 09.12.2016"]
+			}]
+		}]
+	}
+}

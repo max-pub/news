@@ -1,0 +1,406 @@
+{
+	"rss": {
+		"$": {
+			"xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+			"version": "2.0"
+		},
+		"channel": [{
+			"title": ["SPIEGEL ONLINE - Schlagzeilen"],
+			"link": ["http://www.spiegel.de"],
+			"description": ["Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr."],
+			"language": ["de"],
+			"pubDate": ["Fri, 09 Dec 2016 13:29:21 +0100"],
+			"lastBuildDate": ["Fri, 09 Dec 2016 13:29:21 +0100"],
+			"image": [{
+				"title": ["SPIEGEL ONLINE"],
+				"link": ["http://www.spiegel.de"],
+				"url": ["http://www.spiegel.de/static/sys/logo_120x61.gif"]
+			}],
+			"item": [{
+				"title": ["Aschaffenburg: Verdacht auf Anschlagsplan - zwei Jugendliche festgenommen"],
+				"link": ["http://www.spiegel.de/politik/deutschland/aschaffenburg-jugendliche-wegen-moeglicher-anschlagsplaene-festgenommen-a-1125187.html#ref=rss"],
+				"description": ["Sie sollen einen Anschlag auf eine öffentliche Einrichtung in Aschaffenburg geplant haben: Die Polizei hat zwei Jugendliche im Alter von 15 und 17 Jahren festgenommen. Bei ihnen wurde islamistische Propaganda gefunden."],
+				"pubDate": ["Fri, 09 Dec 2016 13:07:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/aschaffenburg-jugendliche-wegen-moeglicher-anschlagsplaene-festgenommen-a-1125187.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082428-thumbsmall-vuvz.jpg\" hspace=\"5\" align=\"left\" >Sie sollen einen Anschlag auf eine öffentliche Einrichtung in Aschaffenburg geplant haben: Die Polizei hat zwei Jugendliche im Alter von 15 und 17 Jahren festgenommen. Bei ihnen wurde islamistische Propaganda gefunden."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082428-thumbsmall-vuvz.jpg"
+					}
+				}]
+			}, {
+				"title": ["Deutsche Bahn: Pofalla baut seine Macht aus"],
+				"link": ["http://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ronald-pofalla-wird-neben-ruediger-grube-maechtigster-vorstand-a-1125165.html#ref=rss"],
+				"description": ["Ex-Kanzleramtschef Ronald Pofalla macht den nächsten Karriereschritt: Er wird nach SPIEGEL-Informationen Vorstand für Infrastruktur und damit Kronprinz von Rüdiger Grube. Der darf Chef bleiben - trotz durchwachsener Bilanz."],
+				"pubDate": ["Fri, 09 Dec 2016 12:40:00 +0100"],
+				"guid": ["http://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ronald-pofalla-wird-neben-ruediger-grube-maechtigster-vorstand-a-1125165.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-590615-thumbsmall-ljuj.jpg\" hspace=\"5\" align=\"left\" >Ex-Kanzleramtschef Ronald Pofalla macht den nächsten Karriereschritt: Er wird nach SPIEGEL-Informationen Vorstand für Infrastruktur und damit Kronprinz von Rüdiger Grube. Der darf Chef bleiben - trotz durchwachsener Bilanz."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-590615-thumbsmall-ljuj.jpg"
+					}
+				}]
+			}, {
+				"title": ["Uno in Sorge: Hunderte Zivilisten aus Aleppo offenbar verschwunden"],
+				"link": ["http://www.spiegel.de/politik/ausland/syrien-hunderte-maenner-aus-aleppo-laut-uno-vermisst-a-1125172.html#ref=rss"],
+				"description": ["Hunderte Männer und Jungen wollten aus den Rebellengebieten Aleppos in die vom Assad-Regime kontrollierten Teile der Stadt fliehen. Jetzt fehlt von ihnen laut Uno jede Spur."],
+				"pubDate": ["Fri, 09 Dec 2016 12:37:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/syrien-hunderte-maenner-aus-aleppo-laut-uno-vermisst-a-1125172.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082408-thumbsmall-jiex.jpg\" hspace=\"5\" align=\"left\" >Hunderte Männer und Jungen wollten aus den Rebellengebieten Aleppos in die vom Assad-Regime kontrollierten Teile der Stadt fliehen. Jetzt fehlt von ihnen laut Uno jede Spur."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082408-thumbsmall-jiex.jpg"
+					}
+				}]
+			}, {
+				"title": ["McLaren-Report: Mehr als 1000 russische Athleten in Dopingaffäre verwickelt"],
+				"link": ["http://www.spiegel.de/sport/sonst/mclaren-bericht-mehr-als-1000-russische-athleten-in-doping-affaere-verwickelt-a-1125184.html#ref=rss"],
+				"description": ["Das russische Dopingsystem war noch viel größer als gedacht. Der McLaren-Report deckt auf: Zwölf Medaillen-Gewinner aus Sotschi haben betrogen, im Zentrum des Skandals steht die Regierung in Moskau."],
+				"pubDate": ["Fri, 09 Dec 2016 12:20:00 +0100"],
+				"guid": ["http://www.spiegel.de/sport/sonst/mclaren-bericht-mehr-als-1000-russische-athleten-in-doping-affaere-verwickelt-a-1125184.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082439-thumbsmall-vcll.jpg\" hspace=\"5\" align=\"left\" >Das russische Dopingsystem war noch viel größer als gedacht. Der McLaren-Report deckt auf: Zwölf Medaillen-Gewinner aus Sotschi haben betrogen, im Zentrum des Skandals steht die Regierung in Moskau."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082439-thumbsmall-vcll.jpg"
+					}
+				}]
+			}, {
+				"title": ["Streit über Wahlkampfstrategie: CDU-Vize Laschet warnt vor Rechtsruck"],
+				"link": ["http://www.spiegel.de/politik/deutschland/armin-laschet-cdu-vize-warnt-vor-rechtsruck-a-1116780.html#ref=rss"],
+				"description": ["In der CDU tobt ein Kampf um den richtigen Kurs im Wahljahr. CDU-Vize Laschet mahnt im SPIEGEL: \"Die Union gewinnt Wahlen nur, wenn sie die Sorgen der Mitte erkennt.\""],
+				"pubDate": ["Fri, 09 Dec 2016 12:03:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/armin-laschet-cdu-vize-warnt-vor-rechtsruck-a-1116780.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1080640-thumbsmall-lsbp.jpg\" hspace=\"5\" align=\"left\" >In der CDU tobt ein Kampf um den richtigen Kurs im Wahljahr. CDU-Vize Laschet mahnt im SPIEGEL: \"Die Union gewinnt Wahlen nur, wenn sie die Sorgen der Mitte erkennt.\""],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1080640-thumbsmall-lsbp.jpg"
+					}
+				}]
+			}, {
+				"title": ["Spanische Exklave: Hunderte Flüchtlinge stürmen Grenzzaun in Ceuta"],
+				"link": ["http://www.spiegel.de/politik/ausland/ceuta-fluechtlinge-stuermen-grenzzaun-zwischen-marokko-und-spanischer-exlave-a-1125163.html#ref=rss"],
+				"description": ["Sie sollen den sechs Meter hohen Zaun an zwei Stellen durchbrochen haben: Fast 400 Flüchtlinge haben nach offiziellen Angaben versucht, von Marokko aus in die spanische Exklave Ceuta zu gelangen. "],
+				"pubDate": ["Fri, 09 Dec 2016 11:57:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/ceuta-fluechtlinge-stuermen-grenzzaun-zwischen-marokko-und-spanischer-exlave-a-1125163.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082399-thumbsmall-hguc.jpg\" hspace=\"5\" align=\"left\" >Sie sollen den sechs Meter hohen Zaun an zwei Stellen durchbrochen haben: Fast 400 Flüchtlinge haben nach offiziellen Angaben versucht, von Marokko aus in die spanische Exklave Ceuta zu gelangen. "],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082399-thumbsmall-hguc.jpg"
+					}
+				}]
+			}, {
+				"title": ["Sensationsfund: Dinosaurierschwanz in Bernstein entdeckt"],
+				"link": ["http://www.spiegel.de/wissenschaft/natur/myanmar-dinosaurier-schwanz-in-bernstein-entdeckt-a-1125126.html#ref=rss"],
+				"description": ["Es ist eine kleine paläontologische Sensation, die an die Jurassic-Park-Filme erinnert: Chinesische Forscher haben in einem Stück Bernstein Stücke eines Dinosaurierschwanzes gefunden - im vollen Federkleid."],
+				"pubDate": ["Fri, 09 Dec 2016 11:40:00 +0100"],
+				"guid": ["http://www.spiegel.de/wissenschaft/natur/myanmar-dinosaurier-schwanz-in-bernstein-entdeckt-a-1125126.html"],
+				"content:encoded": ["Es ist eine kleine paläontologische Sensation, die an die Jurassic-Park-Filme erinnert: Chinesische Forscher haben in einem Stück Bernstein Stücke eines Dinosaurierschwanzes gefunden - im vollen Federkleid."]
+			}, {
+				"title": ["Getötete Studentin: Polizei sucht weitere Zeugen in Freiburg"],
+				"link": ["http://www.spiegel.de/panorama/justiz/mord-in-freiburg-polizei-sucht-weitere-zeugen-a-1125144.html#ref=rss"],
+				"description": ["Im Fall der getöteten Studentin in Freiburg hat die Polizei Hinweise auf zwei weitere mögliche Zeugen bekommen. Die beiden Frauen werden gebeten, sich bei den Behörden zu melden."],
+				"pubDate": ["Fri, 09 Dec 2016 11:39:00 +0100"],
+				"guid": ["http://www.spiegel.de/panorama/justiz/mord-in-freiburg-polizei-sucht-weitere-zeugen-a-1125144.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082337-thumbsmall-jebc.jpg\" hspace=\"5\" align=\"left\" >Im Fall der getöteten Studentin in Freiburg hat die Polizei Hinweise auf zwei weitere mögliche Zeugen bekommen. Die beiden Frauen werden gebeten, sich bei den Behörden zu melden."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082337-thumbsmall-jebc.jpg"
+					}
+				}]
+			}, {
+				"title": ["Niederlande: Geert Wilders wegen Diskriminierung und Beleidigung verurteilt"],
+				"link": ["http://www.spiegel.de/politik/ausland/geert-wilders-wegen-hassrede-und-diskriminierung-verurteilt-a-1125132.html#ref=rss"],
+				"description": ["Ein niederländisches Gericht hat den Rechtspopulisten Geert Wilders wegen Beleidigung und Diskriminierung verurteilt. Eine Strafe verhängten die Richter allerdings nicht. "],
+				"pubDate": ["Fri, 09 Dec 2016 11:30:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/geert-wilders-wegen-hassrede-und-diskriminierung-verurteilt-a-1125132.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082320-thumbsmall-bhxh.jpg\" hspace=\"5\" align=\"left\" >Ein niederländisches Gericht hat den Rechtspopulisten Geert Wilders wegen Beleidigung und Diskriminierung verurteilt. Eine Strafe verhängten die Richter allerdings nicht. "],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082320-thumbsmall-bhxh.jpg"
+					}
+				}]
+			}, {
+				"title": ["Baden-Württemberg: Schüler finden 30.000 Euro - und bekommen kargen Finderlohn"],
+				"link": ["http://www.spiegel.de/lebenundlernen/schule/gundelfingen-schueler-finden-30-000-euro-besitzer-gefunden-a-1125125.html#ref=rss"],
+				"description": ["Auf dem Schulweg fanden Schüler mehrere Bündel 500-Euro-Scheine und brachten das Geld zur Polizei. Jetzt wurde der Besitzer ermittelt - und bedankte sich nur mit kurzen Briefen und Schokolade."],
+				"pubDate": ["Fri, 09 Dec 2016 11:21:00 +0100"],
+				"guid": ["http://www.spiegel.de/lebenundlernen/schule/gundelfingen-schueler-finden-30-000-euro-besitzer-gefunden-a-1125125.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1053365-thumbsmall-ibfc.jpg\" hspace=\"5\" align=\"left\" >Auf dem Schulweg fanden Schüler mehrere Bündel 500-Euro-Scheine und brachten das Geld zur Polizei. Jetzt wurde der Besitzer ermittelt - und bedankte sich nur mit kurzen Briefen und Schokolade."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1053365-thumbsmall-ibfc.jpg"
+					}
+				}]
+			}, {
+				"title": ["Städtevergleich: Karlsruhe surft doppelt so schnell wie München"],
+				"link": ["http://www.spiegel.de/wirtschaft/service/deutschland-karlsruhe-surft-doppelt-so-schnell-im-internet-wie-muenchen-a-1121740.html#ref=rss"],
+				"description": ["Westdeutsche surfen schneller als Ostdeutsche, auf dem Land kostet ein Netzanschluss teils 170 Euro mehr als in der Stadt. Wie schneidet Ihre Region ab? Der Check."],
+				"pubDate": ["Fri, 09 Dec 2016 11:04:00 +0100"],
+				"guid": ["http://www.spiegel.de/wirtschaft/service/deutschland-karlsruhe-surft-doppelt-so-schnell-im-internet-wie-muenchen-a-1121740.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-935424-thumbsmall-rxlr.jpg\" hspace=\"5\" align=\"left\" >Westdeutsche surfen schneller als Ostdeutsche, auf dem Land kostet ein Netzanschluss teils 170 Euro mehr als in der Stadt. Wie schneidet Ihre Region ab? Der Check."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-935424-thumbsmall-rxlr.jpg"
+					}
+				}]
+			}, {
+				"title": ["FDP-Urgestein: Hildegard Hamm-Brücher ist tot"],
+				"link": ["http://www.spiegel.de/politik/deutschland/hildegard-hamm-bruecher-ist-tot-a-1125139.html#ref=rss"],
+				"description": ["Sie war das liberale Gesicht der deutschen Politik: Die langjährige FDP-Politikerin Hildegard Hamm-Brücher ist im Alter von 95 Jahren gestorben."],
+				"pubDate": ["Fri, 09 Dec 2016 10:44:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/hildegard-hamm-bruecher-ist-tot-a-1125139.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082314-thumbsmall-xpjb.jpg\" hspace=\"5\" align=\"left\" >Sie war das liberale Gesicht der deutschen Politik: Die langjährige FDP-Politikerin Hildegard Hamm-Brücher ist im Alter von 95 Jahren gestorben."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082314-thumbsmall-xpjb.jpg"
+					}
+				}]
+			}, {
+				"title": ["Gesellschaft für deutsche Sprache: \"Postfaktisch\" ist Wort des Jahres 2016"],
+				"link": ["http://www.spiegel.de/kultur/gesellschaft/wort-des-jahres-2016-postfaktisch-gekuert-a-1125124.html#ref=rss"],
+				"description": ["Im politischen Geschehen 2016 war es der prägende Begriff - nun ist er auch das Wort des Jahres: \"postfaktisch\". Das gab die Gesellschaft für deutsche Sprache bekannt."],
+				"pubDate": ["Fri, 09 Dec 2016 10:13:00 +0100"],
+				"guid": ["http://www.spiegel.de/kultur/gesellschaft/wort-des-jahres-2016-postfaktisch-gekuert-a-1125124.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082248-thumbsmall-mugh.jpg\" hspace=\"5\" align=\"left\" >Im politischen Geschehen 2016 war es der prägende Begriff - nun ist er auch das Wort des Jahres: \"postfaktisch\". Das gab die Gesellschaft für deutsche Sprache bekannt."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082248-thumbsmall-mugh.jpg"
+					}
+				}]
+			}, {
+				"title": ["Angriff in Neukölln: Sechs Hinweise auf Berliner U-Bahn-Treter"],
+				"link": ["http://www.spiegel.de/panorama/justiz/berlin-neukoelln-sechs-hinweise-auf-u-bahn-treter-a-1125123.html#ref=rss"],
+				"description": ["Ein Mann tritt einer jungen Frau in den Rücken, sie fällt in einem Berliner U-Bahnhof die Treppe hinunter. Das Video der Gewalttat löst bundesweit Entsetzen aus. Mehrere Zeugen haben sich bei der Polizei gemeldet."],
+				"pubDate": ["Fri, 09 Dec 2016 10:09:00 +0100"],
+				"guid": ["http://www.spiegel.de/panorama/justiz/berlin-neukoelln-sechs-hinweise-auf-u-bahn-treter-a-1125123.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082293-thumbsmall-shnp.jpg\" hspace=\"5\" align=\"left\" >Ein Mann tritt einer jungen Frau in den Rücken, sie fällt in einem Berliner U-Bahnhof die Treppe hinunter. Das Video der Gewalttat löst bundesweit Entsetzen aus. Mehrere Zeugen haben sich bei der Polizei gemeldet."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082293-thumbsmall-shnp.jpg"
+					}
+				}]
+			}, {
+				"title": ["Bombe vor Moschee: Anschlag in Dresden - Polizei nimmt Verdächtigen fest"],
+				"link": ["http://www.spiegel.de/politik/deutschland/dresden-festnahme-nach-bombenanschlag-auf-moschee-a-1125122.html#ref=rss"],
+				"description": ["Ein 29 Jahre alter Mann soll für die Bombenanschläge Ende September in Dresden verantwortlich sein. Laut einem Medienbericht handelt es sich um einen Pegida-Redner."],
+				"pubDate": ["Fri, 09 Dec 2016 09:49:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/dresden-festnahme-nach-bombenanschlag-auf-moschee-a-1125122.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1053899-thumbsmall-mvuu.jpg\" hspace=\"5\" align=\"left\" >Ein 29 Jahre alter Mann soll für die Bombenanschläge Ende September in Dresden verantwortlich sein. Laut einem Medienbericht handelt es sich um einen Pegida-Redner."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1053899-thumbsmall-mvuu.jpg"
+					}
+				}]
+			}, {
+				"title": ["Terrorismus: Pentagon schätzt Zahl der getöteten IS-Kämpfer auf 50.000"],
+				"link": ["http://www.spiegel.de/politik/ausland/islamischer-staat-usa-schaetzen-zahl-der-toten-terroristen-auf-50-000-a-1125117.html#ref=rss"],
+				"description": ["Die Terrormiliz \"Islamischer Staat\" ist nach US-Angaben mittlerweile stark geschwächt. Zehntausende IS-Kämpfer sollen in den vergangenen beiden Jahren getötet worden sein. "],
+				"pubDate": ["Fri, 09 Dec 2016 09:16:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/islamischer-staat-usa-schaetzen-zahl-der-toten-terroristen-auf-50-000-a-1125117.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082269-thumbsmall-xljo.jpg\" hspace=\"5\" align=\"left\" >Die Terrormiliz \"Islamischer Staat\" ist nach US-Angaben mittlerweile stark geschwächt. Zehntausende IS-Kämpfer sollen in den vergangenen beiden Jahren getötet worden sein. "],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082269-thumbsmall-xljo.jpg"
+					}
+				}]
+			}, {
+				"title": ["Musikstreaming-Dienste: Spotify will Soundcloud doch nicht kaufen"],
+				"link": ["http://www.spiegel.de/wirtschaft/unternehmen/spotify-will-soundcloud-doch-nicht-kaufen-a-1125109.html#ref=rss"],
+				"description": ["Spotify will das Berliner Start-up Soundcloud einem Bericht zufolge doch nicht kaufen. Denn eine Übernahme würde womöglich die Börsenpläne des Streamingdienstes belasten."],
+				"pubDate": ["Fri, 09 Dec 2016 08:26:00 +0100"],
+				"guid": ["http://www.spiegel.de/wirtschaft/unternehmen/spotify-will-soundcloud-doch-nicht-kaufen-a-1125109.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1017437-thumbsmall-mghs.jpg\" hspace=\"5\" align=\"left\" >Spotify will das Berliner Start-up Soundcloud einem Bericht zufolge doch nicht kaufen. Denn eine Übernahme würde womöglich die Börsenpläne des Streamingdienstes belasten."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1017437-thumbsmall-mghs.jpg"
+					}
+				}]
+			}, {
+				"title": ["Südkorea: Parlament stimmt für Amtsenthebung von Präsidentin Park"],
+				"link": ["http://www.spiegel.de/politik/ausland/suedkorea-parlament-stimmt-fuer-amtsenthebung-von-praesidentin-park-a-1125112.html#ref=rss"],
+				"description": ["Wegen der Korruptionsaffäre könnte Südkoreas Präsidentin Park Geun Hye ihren Posten verlieren. Das Parlament votierte für ein Amtsenthebungsverfahren gegen die Staatschefin. Jetzt muss das Verfassungsgericht entscheiden."],
+				"pubDate": ["Fri, 09 Dec 2016 08:14:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/suedkorea-parlament-stimmt-fuer-amtsenthebung-von-praesidentin-park-a-1125112.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082255-thumbsmall-ibpj.jpg\" hspace=\"5\" align=\"left\" >Wegen der Korruptionsaffäre könnte Südkoreas Präsidentin Park Geun Hye ihren Posten verlieren. Das Parlament votierte für ein Amtsenthebungsverfahren gegen die Staatschefin. Jetzt muss das Verfassungsgericht entscheiden."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082255-thumbsmall-ibpj.jpg"
+					}
+				}]
+			}, {
+				"title": ["Tödliche Injektion: Mörder in Alabama hingerichtet"],
+				"link": ["http://www.spiegel.de/panorama/justiz/alabama-moerder-ronald-bert-smith-jr-per-giftinjektion-hingerichtet-a-1125107.html#ref=rss"],
+				"description": ["Die Jury wollte lebenslange Haft - der Richter verhängte die Todesstrafe. Im US-Bundesstaat Alabama ist der Mörder Ronald Bert Smith Jr. nun hingerichtet worden."],
+				"pubDate": ["Fri, 09 Dec 2016 07:44:00 +0100"],
+				"guid": ["http://www.spiegel.de/panorama/justiz/alabama-moerder-ronald-bert-smith-jr-per-giftinjektion-hingerichtet-a-1125107.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082253-thumbsmall-fwvr.jpg\" hspace=\"5\" align=\"left\" >Die Jury wollte lebenslange Haft - der Richter verhängte die Todesstrafe. Im US-Bundesstaat Alabama ist der Mörder Ronald Bert Smith Jr. nun hingerichtet worden."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082253-thumbsmall-fwvr.jpg"
+					}
+				}]
+			}, {
+				"title": ["Mangelnde Nachfrage: Schweizer Firmen importieren eigene Uhren aus dem Ausland zurück"],
+				"link": ["http://www.spiegel.de/wirtschaft/unternehmen/cartier-montblanc-iwc-schweizer-uhrenindustrie-nimmt-eigene-uhren-zurueck-a-1125105.html#ref=rss"],
+				"description": ["Teure Schweizer Uhren verkaufen sich im Ausland nicht mehr so gut: Die großen Hersteller müssen ihre Luxusprodukte laut einem Bericht zunehmend zurücknehmen."],
+				"pubDate": ["Fri, 09 Dec 2016 07:37:00 +0100"],
+				"guid": ["http://www.spiegel.de/wirtschaft/unternehmen/cartier-montblanc-iwc-schweizer-uhrenindustrie-nimmt-eigene-uhren-zurueck-a-1125105.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1067990-thumbsmall-dvwg.jpg\" hspace=\"5\" align=\"left\" >Teure Schweizer Uhren verkaufen sich im Ausland nicht mehr so gut: Die großen Hersteller müssen ihre Luxusprodukte laut einem Bericht zunehmend zurücknehmen."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1067990-thumbsmall-dvwg.jpg"
+					}
+				}]
+			}, {
+				"title": ["VW-Abgasaffäre: Kritische Passagen aus Untersuchungsbericht getilgt"],
+				"link": ["http://www.spiegel.de/auto/aktuell/vw-abgasaffaere-kritische-passagen-aus-dem-untersuchungsbericht-zum-abgasskandal-gestrichen-a-1125073.html#ref=rss"],
+				"description": ["Seit Beginn der Dieselaffäre inszeniert sich Verkehrsminister Dobrindt als schonungsloser Aufklärer. Doch Akten aus seinem Ministerium beweisen das Gegenteil: Aus einem Untersuchungsbericht wurden kritische Passagen gestrichen. "],
+				"pubDate": ["Fri, 09 Dec 2016 05:26:00 +0100"],
+				"guid": ["http://www.spiegel.de/auto/aktuell/vw-abgasaffaere-kritische-passagen-aus-dem-untersuchungsbericht-zum-abgasskandal-gestrichen-a-1125073.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082194-thumbsmall-ucyl.jpg\" hspace=\"5\" align=\"left\" >Seit Beginn der Dieselaffäre inszeniert sich Verkehrsminister Dobrindt als schonungsloser Aufklärer. Doch Akten aus seinem Ministerium beweisen das Gegenteil: Aus einem Untersuchungsbericht wurden kritische Passagen gestrichen. "],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082194-thumbsmall-ucyl.jpg"
+					}
+				}]
+			}, {
+				"title": ["ARD-Umfrage: Schulz ist jetzt so beliebt wie Merkel"],
+				"link": ["http://www.spiegel.de/politik/deutschland/martin-schulz-und-angela-merkel-sind-jetzt-gleich-beliebt-cdu-chefin-liegt-im-kanzlerduell-vorn-a-1125099.html#ref=rss"],
+				"description": ["SPD-Politiker Martin Schulz wird bei den Deutschen immer beliebter, einer Umfrage zufolge zieht er nun mit CDU-Chefin Angela Merkel gleich. Im Kanzlerkandidaten-Duell liegt sie aber vorn."],
+				"pubDate": ["Fri, 09 Dec 2016 01:25:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/martin-schulz-und-angela-merkel-sind-jetzt-gleich-beliebt-cdu-chefin-liegt-im-kanzlerduell-vorn-a-1125099.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082234-thumbsmall-byya.jpg\" hspace=\"5\" align=\"left\" >SPD-Politiker Martin Schulz wird bei den Deutschen immer beliebter, einer Umfrage zufolge zieht er nun mit CDU-Chefin Angela Merkel gleich. Im Kanzlerkandidaten-Duell liegt sie aber vorn."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082234-thumbsmall-byya.jpg"
+					}
+				}]
+			}, {
+				"title": ["Nach langem Streit: Bund und Länder einigen sich bei Finanzreform"],
+				"link": ["http://www.spiegel.de/politik/deutschland/angela-merkel-bestaetigt-bund-und-laender-einigen-sich-bei-finanzreform-a-1125100.html#ref=rss"],
+				"description": ["Im Konflikt um die Neuordnung der innerdeutschen Finanzbeziehungen hat es überraschend doch noch eine Einigung gegeben: Für die Länder bedeutet das mehr Milliarden, für den Bund mehr Kompetenzen."],
+				"pubDate": ["Fri, 09 Dec 2016 00:25:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/deutschland/angela-merkel-bestaetigt-bund-und-laender-einigen-sich-bei-finanzreform-a-1125100.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082233-thumbsmall-yyrn.jpg\" hspace=\"5\" align=\"left\" >Im Konflikt um die Neuordnung der innerdeutschen Finanzbeziehungen hat es überraschend doch noch eine Einigung gegeben: Für die Länder bedeutet das mehr Milliarden, für den Bund mehr Kompetenzen."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082233-thumbsmall-yyrn.jpg"
+					}
+				}]
+			}, {
+				"title": ["US-Weltraumpionier: John Glenn ist tot "],
+				"link": ["http://www.spiegel.de/panorama/leute/john-glenn-us-astronaut-und-senator-stirbt-mit-95-jahren-a-1125092.html#ref=rss"],
+				"description": ["Er war der erste Amerikaner im Orbit, seine Umrundung um die Erde machte John Glenn zum Helden. Nun ist der Astronaut und ehemalige Senator im Alter von 95 Jahren gestorben. "],
+				"pubDate": ["Thu, 08 Dec 2016 21:45:00 +0100"],
+				"guid": ["http://www.spiegel.de/panorama/leute/john-glenn-us-astronaut-und-senator-stirbt-mit-95-jahren-a-1125092.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1056304-thumbsmall-ascr.jpg\" hspace=\"5\" align=\"left\" >Er war der erste Amerikaner im Orbit, seine Umrundung um die Erde machte John Glenn zum Helden. Nun ist der Astronaut und ehemalige Senator im Alter von 95 Jahren gestorben. "],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1056304-thumbsmall-ascr.jpg"
+					}
+				}]
+			}, {
+				"title": ["Nach EU-Steuerermittlungen: McDonald's verlegt Auslandssitz"],
+				"link": ["http://www.spiegel.de/wirtschaft/unternehmen/mcdonald-s-verlegt-nach-eu-steuerermittlungen-auslandssitz-a-1125088.html#ref=rss"],
+				"description": ["McDonald's zieht nach Einleitung von EU-Steuernachforschungen mit seiner internationalen Zentrale von Luxemburg nach Großbritannien. Die Fast-Food-Kette bezeichnete den Schritt als Teil einer Umstrukturierung."],
+				"pubDate": ["Thu, 08 Dec 2016 20:57:00 +0100"],
+				"guid": ["http://www.spiegel.de/wirtschaft/unternehmen/mcdonald-s-verlegt-nach-eu-steuerermittlungen-auslandssitz-a-1125088.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082213-thumbsmall-gmnk.jpg\" hspace=\"5\" align=\"left\" >McDonald's zieht nach Einleitung von EU-Steuernachforschungen mit seiner internationalen Zentrale von Luxemburg nach Großbritannien. Die Fast-Food-Kette bezeichnete den Schritt als Teil einer Umstrukturierung."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082213-thumbsmall-gmnk.jpg"
+					}
+				}]
+			}, {
+				"title": ["Syrienkrieg: Lawrow kündigt Feuerpause in Aleppo an"],
+				"link": ["http://www.spiegel.de/politik/ausland/aleppo-russischer-aussenminister-sergej-lawrow-kuendigt-feuerpause-an-a-1125087.html#ref=rss"],
+				"description": ["Die syrische Armee hat nach Angaben des russischen Außenministers Sergej Lawrow ihre Angriffe in Aleppo unterbrochen. 8000 Zivilisten sollen aus dem Osten der Stadt gebracht werden."],
+				"pubDate": ["Thu, 08 Dec 2016 20:13:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/aleppo-russischer-aussenminister-sergej-lawrow-kuendigt-feuerpause-an-a-1125087.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1073760-thumbsmall-ieym.jpg\" hspace=\"5\" align=\"left\" >Die syrische Armee hat nach Angaben des russischen Außenministers Sergej Lawrow ihre Angriffe in Aleppo unterbrochen. 8000 Zivilisten sollen aus dem Osten der Stadt gebracht werden."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1073760-thumbsmall-ieym.jpg"
+					}
+				}]
+			}, {
+				"title": ["Befragung am Flughafen: Türkei verschärft Kontrollen für deutsche Diplomaten"],
+				"link": ["http://www.spiegel.de/politik/ausland/tuerkei-verschaerft-kontrollen-fuer-deutsche-diplomaten-a-1125082.html#ref=rss"],
+				"description": ["Es sieht aus wie eine Strafmaßnahme aus Ankara: Nachdem eine türkische Politikerin am Kölner Flughafen zur Befragung festgehalten wurde, erschwert die Türkei nun deutschen Diplomaten die Ein- und Ausreise."],
+				"pubDate": ["Thu, 08 Dec 2016 19:46:47 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/tuerkei-verschaerft-kontrollen-fuer-deutsche-diplomaten-a-1125082.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082205-thumbsmall-ghyg.jpg\" hspace=\"5\" align=\"left\" >Es sieht aus wie eine Strafmaßnahme aus Ankara: Nachdem eine türkische Politikerin am Kölner Flughafen zur Befragung festgehalten wurde, erschwert die Türkei nun deutschen Diplomaten die Ein- und Ausreise."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082205-thumbsmall-ghyg.jpg"
+					}
+				}]
+			}, {
+				"title": ["Neues US-Kabinett: Trump nominiert Burgerketten-Chef als Arbeitsminister"],
+				"link": ["http://www.spiegel.de/politik/ausland/donald-trump-ernennt-burgerketten-chef-zum-andrew-f-puzder-zum-arbeitsminister-a-1125079.html#ref=rss"],
+				"description": ["Andrew Puzder ist gegen Mindestlohn, Regulierungen und \"Obamacare\": Nun soll er laut Donald Trump neuer US-Arbeitsminister werden. Er sei der ideale Kandidat für den Posten."],
+				"pubDate": ["Thu, 08 Dec 2016 18:52:00 +0100"],
+				"guid": ["http://www.spiegel.de/politik/ausland/donald-trump-ernennt-burgerketten-chef-zum-andrew-f-puzder-zum-arbeitsminister-a-1125079.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082200-thumbsmall-qybg.jpg\" hspace=\"5\" align=\"left\" >Andrew Puzder ist gegen Mindestlohn, Regulierungen und \"Obamacare\": Nun soll er laut Donald Trump neuer US-Arbeitsminister werden. Er sei der ideale Kandidat für den Posten."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082200-thumbsmall-qybg.jpg"
+					}
+				}]
+			}, {
+				"title": ["Iruma: Japanische Stadt stattet Demenzkranke mit QR-Codes aus"],
+				"link": ["http://www.spiegel.de/gesundheit/diagnose/demenz-iruma-japan-stattet-betroffene-mit-qr-codes-aus-a-1125058.html#ref=rss"],
+				"description": ["Wer bin ich und woher komme ich? In der japanischen Stadt Iruma soll Demenzkranken in Zukunft schneller geholfen werden, wenn sie sich verirrt haben. Möglich macht das ein Mini-Aufkleber mit einem QR-Code."],
+				"pubDate": ["Thu, 08 Dec 2016 17:36:00 +0100"],
+				"guid": ["http://www.spiegel.de/gesundheit/diagnose/demenz-iruma-japan-stattet-betroffene-mit-qr-codes-aus-a-1125058.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1082162-thumbsmall-bmdf.jpg\" hspace=\"5\" align=\"left\" >Wer bin ich und woher komme ich? In der japanischen Stadt Iruma soll Demenzkranken in Zukunft schneller geholfen werden, wenn sie sich verirrt haben. Möglich macht das ein Mini-Aufkleber mit einem QR-Code."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1082162-thumbsmall-bmdf.jpg"
+					}
+				}]
+			}, {
+				"title": ["NSU-Prozess: Gericht beschlagnahmt Zschäpe-Brief"],
+				"link": ["http://www.spiegel.de/panorama/justiz/beate-zschaepe-im-nsu-prozess-gericht-beschlagnahmt-brief-an-frueheren-neonazi-a-1125051.html#ref=rss"],
+				"description": ["Das Oberlandesgericht München hat beschlossen, einen Brief von Beate Zschäpe an einen früheren Neonazi zu beschlagnahmen. Für die Hauptangeklagte ist das eine empfindliche Niederlage."],
+				"pubDate": ["Thu, 08 Dec 2016 17:26:00 +0100"],
+				"guid": ["http://www.spiegel.de/panorama/justiz/beate-zschaepe-im-nsu-prozess-gericht-beschlagnahmt-brief-an-frueheren-neonazi-a-1125051.html"],
+				"content:encoded": ["<img src=\"http://www.spiegel.de/images/image-1056959-thumbsmall-ugyt.jpg\" hspace=\"5\" align=\"left\" >Das Oberlandesgericht München hat beschlossen, einen Brief von Beate Zschäpe an einen früheren Neonazi zu beschlagnahmen. Für die Hauptangeklagte ist das eine empfindliche Niederlage."],
+				"enclosure": [{
+					"$": {
+						"type": "image/jpeg",
+						"url": "http://www.spiegel.de/images/image-1056959-thumbsmall-ugyt.jpg"
+					}
+				}]
+			}]
+		}]
+	}
+}
